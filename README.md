@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**octocat/octocat** is a ✨ _special_ ✨ repository because its 'README.md' (this file) appears on your GitHub profile
-
 Indian - Fivem Configurator / Dev
 
 Here are some ideas to get you started:
