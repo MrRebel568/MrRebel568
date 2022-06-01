@@ -18,4 +18,4 @@ Feel Free to Join my Dev Server Over here i will provide support for my resource
 - 📫 How to reach me: MrRebel#7457
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRebel&   show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRebel&show_icons=true&theme=tokyonight)
