@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Script Development
 - 📫 How to reach me: MrRebel#7457
 
-Feel Free to Join my Dev Server Over here i will provide support for my resources :)  https://discord.gg/WKhp38uc7Y
+Feel Free to Join my Dev Server Over here i will provide support for my resources :)  https://discord.gg/XpdWyyT4Nm
 
 <div "
   <a href="https://github.com/MrRebel">
