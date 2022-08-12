@@ -2,8 +2,6 @@
 
 - Welcome to my Profile!
 
-Indian - Fivem Configurator / Dev
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - <a href="https://github.com/MrRebel568">**MrRebel**</a>
