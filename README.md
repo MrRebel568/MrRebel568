@@ -11,8 +11,4 @@ Here are some ideas to get you started:
 
 Feel Free to Join my Dev Server Over here i will provide support for my resources :)  https://discord.gg/XpdWyyT4Nm
 
-<div "
-  <a href="https://github.com/MrRebel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrRebel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true"/>
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrRebel" alt="MrRebel" /> </p>
